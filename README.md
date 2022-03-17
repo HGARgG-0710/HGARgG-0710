@@ -7,6 +7,10 @@ Been doing (non-professionaly, as a hobby) software development for about 5 year
 
 Made a perculiar JS mathematics library that periodically has some bugs 
 and a spontaneous Python cmd calculator (I like cmd calculators). 
-Like microcontroller stuff, like Arduino. 
+Love microcontroller stuff, alike Arduino. 
 
-Favourite programming languages: C, C++, JavaScript and Java (in that order). 
+Favourite programming languages: C, C++, JavaScript (in that order, Java is the fourth). 
+
+Favorite markdown language: TeX. 
+
+Has written most code in JavaScript. 
