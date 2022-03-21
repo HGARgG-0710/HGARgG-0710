@@ -5,6 +5,8 @@ Some random guy.
 Occasionally write stuff for fun in: web (HTML, CSS, JavaScript, PHP, MySQL), C/C++ (compilers: gcc, g++ correpondently), Java, Python, TeX, Ruby, little bit of Lua. Familiar with git and npm.  
 Been doing (non-professionaly, as a hobby) software development for about 5 years. 
 
+Very comfortable with using Vim in combination with VSCode [(through the VSCodeVim plugin)](https://github.com/VsCodeVim/Vim). 
+
 Made a perculiar JS mathematics library that periodically has some bugs 
 and a spontaneous Python cmd calculator (I like cmd calculators). 
 Love microcontroller stuff, alike Arduino. 
