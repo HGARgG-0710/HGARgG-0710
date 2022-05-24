@@ -1,8 +1,6 @@
-# Howdy!
+# Howdy! I'm Igor.  
 
-Some random guy. 
-
-Occasionally write stuff for fun in: web (HTML, CSS, JavaScript, PHP, MySQL), C/C++ (compilers: gcc, g++ correpondently), Java, Python, TeX, Ruby, little bit of Lua. Familiar with git and npm.  
+Occasionally write stuff for fun in: web (HTML, CSS, JavaScript, PHP, MySQL), C/C++ (compilers: gcc, g++ correpondently), Java, Python, TeX, Lua, little bit of Ruby. Familiar with git and npm.  
 Been doing (non-professionaly, as a hobby) software development for about 5 years. 
 
 Very comfortable with using Vim in combination with VSCode [(through the VSCodeVim plugin)](https://github.com/VsCodeVim/Vim). 
