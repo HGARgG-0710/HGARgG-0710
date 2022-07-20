@@ -5,8 +5,8 @@ Been doing (non-professionaly, as a hobby) software development for about 5 year
 
 Very comfortable with using Vim in combination with VSCode [(through the VSCodeVim plugin)](https://github.com/VsCodeVim/Vim). 
 
-Made a perculiar JS mathematics library that periodically has some bugs 
-and a spontaneous Python cmd calculator (I like cmd calculators). 
+Made a perculiar JS mathematics library that periodically has some bugs, spontaneous Python cmd calculator (I like cmd calculators) 
+and an overloads.js library (something like an extension of JavaScript, simple typescript alternative). 
 Love microcontroller stuff, alike Arduino. 
 
 Favourite programming languages: C, C++, JavaScript (in that order, Java is the fourth). 
